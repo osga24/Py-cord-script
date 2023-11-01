@@ -3,9 +3,9 @@
 
 ## HOW 2 USE?
 
-![螢幕擷取畫面 2023-11-01 234442.png](https://hackmd.io/_uploads/rJZnfxx7T.png)
+![螢幕擷取畫面 2023-11-01 234442.png](image/螢幕擷取畫面 2023-11-01 234442.png)
 Download and open py-cord.bat
-![螢幕擷取畫面 2023-11-01 234521.png](https://hackmd.io/_uploads/HJiCfle76.png)
+![螢幕擷取畫面 2023-11-01 234521.png](image/螢幕擷取畫面 2023-11-01 234521.png)
 
 and...DONE!
 
